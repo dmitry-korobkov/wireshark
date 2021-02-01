@@ -1,3 +1,3 @@
-[submodule "wireshark"]
-	path = source
+[submodule "external/wireshark"]
+	path = external/wireshark
 	url = https://gitlab.com/wireshark/wireshark.git
